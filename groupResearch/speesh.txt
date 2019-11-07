@@ -1,0 +1,10 @@
+Creative Writing and AI
+    Poetry
+        Difficult to define
+        Compare AI to human poetry
+            botornot - up to ~60% fooled
+        U of Kyoto - poems related to pictures
+            50%/40%
+    Prose
+        Textbook
+
